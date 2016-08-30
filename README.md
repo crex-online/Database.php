@@ -1,7 +1,6 @@
-# db_class
-## PHP Database Class  
+# PHP Database Class  
 
-Simple Class for connecting to and interacting with MySQL Database.
+##Simple Class for connecting to and interacting with MySQL Database.
 
 ### Class Handles:  
 - Connection  
