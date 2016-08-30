@@ -4,13 +4,13 @@
 Simple Class for connecting to and interacting with MySQL Database.
 
 ### Class Handles:  
--Connection  
--Disconnection  
--Get 1 row  
--Get Multiple rows  
--Insert rows  
--Update rows  
--Delete rows  
+- Connection  
+- Disconnection  
+- Get 1 row  
+- Get Multiple rows  
+- Insert rows  
+- Update rows  
+- Delete rows  
 
 Example SELECT query:
 
